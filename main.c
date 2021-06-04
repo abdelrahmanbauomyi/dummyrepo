@@ -15,7 +15,6 @@ void init(void)
 	GPIO_PORTF_DIR_R=0x0E;
 	GPIO_PORTF_DEN_R=0x1F;
 	GPIO_PORTF_PUR_R=0x11;
-sss
 }
 int main()
 {
